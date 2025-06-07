@@ -58,9 +58,13 @@ gap: 40px;
 
 .hero :first-child{
     font-weight: 900;
-    font-size: 25px;
+    font-size: 30px;
 }
 
+.hero :nth-child(2){
+    font-weight: 400;
+    font-size: 20px;
+}
 
 
 
