@@ -7,7 +7,7 @@ A sleek and responsive clone of the Netflix landing page built using **HTML5** a
 ## 📸 Live Demo
 
 > 👉 [Insert your live deployment link here]  
-_(e.g., GitHub Pages, Netlify, Vercel)_
+sagarnetfix.netlify.app
 
 ---
 
@@ -37,7 +37,7 @@ _(e.g., GitHub Pages, Netlify, Vercel)_
 - **SVG Icons** – For plus symbols in FAQ
 
 ---
-
+![alt text](image-5.png)
 ## 📱 Responsive Design
 
 The layout adjusts gracefully across all devices:
@@ -97,7 +97,7 @@ Instagram
 This project is created solely for educational and personal portfolio purposes.
 Netflix® is a registered trademark of Netflix, Inc. This project is not affiliated with Netflix in any way.
 
-
+![alt text](image-6.png)
 
 
 Let me know if you'd like to add deployment instructions (e.g. GitHub Pages setup) or badges like "Built with ❤️" etc.
