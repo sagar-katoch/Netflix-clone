@@ -163,3 +163,24 @@ right: 0;
 .first > div :nth-child(2){
     font-size: 24px;
 }
+.faq h2{
+    text-align: center;
+}
+.faq{
+    background-color: black;
+    color: white;
+    padding: 34px;
+   
+
+}
+.faq h2 {
+   text-align: center;  
+}
+.faqbox{
+    background-color: gray;
+    padding: 34px;
+}
+
+
+
+
