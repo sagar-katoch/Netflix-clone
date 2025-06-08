@@ -6,8 +6,8 @@ A sleek and responsive clone of the Netflix landing page built using **HTML5** a
 
 ## 📸 Live Demo
 
-> 👉 [Insert your live deployment link here]  
-sagarnetfix.netlify.app
+> 👉 [sagarnetfix.netlify.app]  
+
 
 ---
 
